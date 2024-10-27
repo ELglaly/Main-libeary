@@ -1,4 +1,4 @@
-package org.example.com.gradescope.medialibrary;
+package com.gradescope.medialibrary;
 
 import static org.junit.jupiter.api.Assertions.*;
 

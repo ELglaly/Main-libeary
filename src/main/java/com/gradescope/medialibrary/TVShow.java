@@ -1,4 +1,4 @@
-package org.example.com.gradescope.medialibrary;
+package com.gradescope.medialibrary;
 
 public class TVShow extends Media{
 
@@ -6,8 +6,6 @@ public class TVShow extends Media{
         this.title = title;
         this.genre = genre;
     }
-
-
 
     @Override
     public MediaType getMediaType() {

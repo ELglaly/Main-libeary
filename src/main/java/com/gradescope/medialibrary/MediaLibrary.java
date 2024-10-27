@@ -1,4 +1,4 @@
-package org.example.com.gradescope.medialibrary; 
+package com.gradescope.medialibrary;
 
 import java.util.ArrayList;
 
