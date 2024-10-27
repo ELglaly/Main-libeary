@@ -1,3 +1,5 @@
+package com.gradescope.medialibrary;
+
 import java.util.ArrayList;
 public class MediaLibrary {
 
@@ -16,4 +18,5 @@ public class MediaLibrary {
         }
         return null;
     }
+
 }
