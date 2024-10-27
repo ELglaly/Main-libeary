@@ -5,7 +5,7 @@ public class Media {
   protected Genre genre;
   protected  enum MediaType{ };
   protected MediaType type;
-  
+
     public String getTitle() {
         return title;
     }
